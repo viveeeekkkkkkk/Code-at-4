@@ -92,3 +92,12 @@ _App runs on http://localhost:5173_
 4.  Click **"+ New Note"** to write something down.
 5.  Use the **Edit** or **Delete** buttons on note cards to manage your content.
 6.  Visit **Profile** via the top Navbar to update settings or logout.
+
+7.  ## ✨ Project Highlights
+
+* **Secure by Design:** JWT authentication with HttpOnly cookies and password hashing using BcryptJS.
+* **Complete Note Management:** Create, read, update, and delete notes through an intuitive interface.
+* **Personalized Profiles:** Manage account details and generate avatars from user initials.
+* **Responsive Experience:** A clean, light-themed interface designed for desktop, tablet, and mobile screens.
+* **MongoDB Integration:** Persistent storage for user accounts and notes.
+
